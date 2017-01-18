@@ -1,0 +1,23 @@
+{
+  "name": "huarongdaogame",
+  "version": "1.0.0",
+  "description": "This is a strategy game, called the Huarong Road.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "game",
+    "huarongdaogame"
+  ],
+  "author": "jason lee",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IceFrozen/huarongdaogame.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "clear": "0.0.1",
+    "time-uuid": "^1.0.0",
+    "vorpal": "^1.11.4"
+  }
+}
